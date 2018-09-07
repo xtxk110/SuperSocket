@@ -1,0 +1,6 @@
+﻿2018-09-06 17:17:15,462 [1] DEBUG TcpServer-39201736 - Listener (192.168.0.254:8889) was started
+2018-09-06 17:23:07,500 [1] DEBUG TcpServer-39201736 - Listener (192.168.0.254:8889) was started
+2018-09-06 17:23:14,110 [1] DEBUG TcpServer-1816341 - Listener (192.168.0.254:8889) failed to start
+2018-09-06 17:23:22,538 [1] DEBUG TcpServer-54778057 - Listener (192.168.0.254:8889) failed to start
+2018-09-06 17:23:59,181 [1] DEBUG TcpServer-39201736 - Listener (192.168.0.254:8889) was started
+2018-09-06 20:31:34,027 [1] DEBUG TcpServer-39201736 - Listener (192.168.0.254:8889) was started

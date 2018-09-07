@@ -1,0 +1,5 @@
+﻿2018-08-23 09:00:53,461 [1] INFO  TestServer-46104728 - The server instance TestServer-46104728 has been started!
+2018-08-23 09:01:11,588 [3] INFO  TestServer-46104728 - Session: 01257e18-8cf4-4232-ac88-7d8706b9da4e/192.168.0.254:1708
+A new session connected!
+2018-08-23 09:07:15,131 [10] INFO  TestServer-46104728 - Session: 01257e18-8cf4-4232-ac88-7d8706b9da4e/192.168.0.254:1708
+This session was closed for ClientClosing!

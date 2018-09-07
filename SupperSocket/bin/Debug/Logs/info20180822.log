@@ -1,0 +1,15 @@
+﻿2018-08-22 14:52:36,177 [1] INFO  TestServer-46104728 - The server instance TestServer-46104728 has been started!
+2018-08-22 14:52:48,023 [3] INFO  TestServer-46104728 - Session: 4cd2f872-b68f-4a24-9b04-b51df6daaa76/192.168.0.254:18580
+A new session connected!
+2018-08-22 14:54:58,392 [1] INFO  TestServer-46104728 - The server instance TestServer-46104728 has been started!
+2018-08-22 14:55:12,950 [3] INFO  TestServer-46104728 - Session: 6080dd09-df4f-4c23-839d-e70abce98364/192.168.0.254:18610
+A new session connected!
+2018-08-22 15:04:25,037 [1] INFO  TestServer-46104728 - The server instance TestServer-46104728 has been started!
+2018-08-22 15:05:02,137 [3] INFO  TestServer-46104728 - Session: f9d86afa-41e0-494a-9f7f-53d629e27365/192.168.0.254:18725
+A new session connected!
+2018-08-22 15:05:06,550 [3] INFO  TestServer-46104728 - Session: 379050f1-86de-4998-9e08-30f29d77af25/192.168.0.254:18726
+A new session connected!
+2018-08-22 15:06:20,169 [7] INFO  TestServer-46104728 - Session: 379050f1-86de-4998-9e08-30f29d77af25/192.168.0.254:18726
+This session was closed for ClientClosing!
+2018-08-22 15:06:27,307 [5] INFO  TestServer-46104728 - Session: f9d86afa-41e0-494a-9f7f-53d629e27365/192.168.0.254:18725
+This session was closed for ClientClosing!

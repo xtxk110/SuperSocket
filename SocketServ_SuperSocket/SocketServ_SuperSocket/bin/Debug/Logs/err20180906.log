@@ -1,0 +1,46 @@
+﻿2018-09-06 17:18:07,742 [6] ERROR TcpServer-39201736 - System.NotImplementedException: 未实现该方法或操作。
+
+Server stack trace: 
+   在 SocketServ_SuperSocket.SuperSocketServ.Server_NewSessionConnected(TcpSession session) 位置 E:\开发项目\vscode\SocketServ_SuperSocket\SocketServ_SuperSocket\SuperSocketServ.cs:行号 287
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result)
+2018-09-06 17:23:14,088 [1] ERROR TcpServer-1816341 - Listener (192.168.0.254:8889) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2018-09-06 17:23:22,537 [1] ERROR TcpServer-54778057 - Listener (192.168.0.254:8889) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2018-09-06 17:24:07,383 [7] ERROR TcpServer-39201736 - System.NotImplementedException: 未实现该方法或操作。
+
+Server stack trace: 
+   在 SocketServ_SuperSocket.SuperSocketServ.Server_NewSessionConnected(TcpSession session) 位置 E:\开发项目\vscode\SocketServ_SuperSocket\SocketServ_SuperSocket\SuperSocketServ.cs:行号 287
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result)
+2018-09-06 20:42:17,058 [11] ERROR TcpServer-39201736 - System.NotImplementedException: 未实现该方法或操作。
+
+Server stack trace: 
+   在 SocketServ_SuperSocket.SuperSocketServ.Server_NewSessionConnected(TcpSession session) 位置 E:\开发项目\vscode\SocketServ_SuperSocket\SocketServ_SuperSocket\SuperSocketServ.cs:行号 294
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.EndInvokeHelper(Message reqMsg, Boolean bProxyCase)
+   在 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(Object NotUsed, MessageData& msgData)
+   在 SuperSocket.SocketBase.SessionHandler`1.EndInvoke(IAsyncResult result)
+   在 SuperSocket.SocketBase.AppServerBase`2.OnNewSessionConnectedCallback(IAsyncResult result)

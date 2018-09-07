@@ -1,0 +1,450 @@
+﻿2018-09-07 15:25:06,247 [1] INFO  TcpServer-55196503 - The server instance TcpServer-55196503 has been started!
+2018-09-07 15:25:09,179 [1] INFO  TcpServer-55196503 - The server instance TcpServer-55196503 has been stopped!
+2018-09-07 15:25:11,666 [1] INFO  TcpServer-33624151 - The server instance TcpServer-33624151 has been started!
+2018-09-07 15:27:30,010 [4] INFO  TcpServer-33624151 - Session: d55b3309-900e-4d5e-bd6d-7c5247a51298/192.168.0.254:25122
+A new session connected!
+2018-09-07 15:27:30,010 [16] INFO  TcpServer-33624151 - Session: c9d8214a-d117-40ac-902a-5f77b7d28c41/192.168.0.254:25124
+A new session connected!
+2018-09-07 15:27:30,010 [8] INFO  TcpServer-33624151 - Session: d3f9f811-dd87-43ef-9504-1447c0340846/192.168.0.254:25123
+A new session connected!
+2018-09-07 15:27:30,012 [4] INFO  TcpServer-33624151 - Session: e1c79d89-55c2-4ef8-965c-9ad4dab7f435/192.168.0.254:25126
+A new session connected!
+2018-09-07 15:27:30,012 [4] INFO  TcpServer-33624151 - Session: cfc6f92b-2bb8-41f4-b4d0-2627fe5b61c6/192.168.0.254:25127
+A new session connected!
+2018-09-07 15:27:30,012 [4] INFO  TcpServer-33624151 - Session: 6042828d-a1e2-4717-9e0d-34fa10254616/192.168.0.254:25128
+A new session connected!
+2018-09-07 15:27:30,012 [4] INFO  TcpServer-33624151 - Session: 67de178e-796b-4c60-81b7-24aaac97891d/192.168.0.254:25129
+A new session connected!
+2018-09-07 15:27:30,012 [4] INFO  TcpServer-33624151 - Session: d7771ea1-1ced-487c-892a-6aedbb68d606/192.168.0.254:25130
+A new session connected!
+2018-09-07 15:27:30,012 [17] INFO  TcpServer-33624151 - Session: 3b44f41b-ee45-4c40-992c-63a709238456/192.168.0.254:25125
+A new session connected!
+2018-09-07 15:27:30,012 [4] INFO  TcpServer-33624151 - Session: d21af039-5018-441b-9445-1085929b6fc9/192.168.0.254:25131
+A new session connected!
+2018-09-07 15:27:30,012 [8] INFO  TcpServer-33624151 - Session: 0c2e548c-69dc-4bd1-902b-233dbb8552d4/192.168.0.254:25132
+A new session connected!
+2018-09-07 15:27:30,014 [4] INFO  TcpServer-33624151 - Session: 2082661c-4832-40f9-9425-862818f74e0b/192.168.0.254:25135
+A new session connected!
+2018-09-07 15:27:30,014 [8] INFO  TcpServer-33624151 - Session: 6a249a21-4e9c-43da-95ea-7d16773a6874/192.168.0.254:25136
+A new session connected!
+2018-09-07 15:27:30,014 [4] INFO  TcpServer-33624151 - Session: a889a16f-7216-4b76-96b2-77341913c2ea/192.168.0.254:25137
+A new session connected!
+2018-09-07 15:27:30,014 [4] INFO  TcpServer-33624151 - Session: 878e915f-4094-4530-9301-c6742f4d4b9a/192.168.0.254:25138
+A new session connected!
+2018-09-07 15:27:30,014 [4] INFO  TcpServer-33624151 - Session: d1028d43-fe45-4be1-a413-b05147a4423d/192.168.0.254:25139
+A new session connected!
+2018-09-07 15:27:30,014 [4] INFO  TcpServer-33624151 - Session: dade4082-9fda-4a5b-afbd-7d6920617061/192.168.0.254:25140
+A new session connected!
+2018-09-07 15:27:30,014 [4] INFO  TcpServer-33624151 - Session: 4e1c8b69-cac8-4b0e-8a5c-40d0adacb6aa/192.168.0.254:25141
+A new session connected!
+2018-09-07 15:27:30,014 [4] INFO  TcpServer-33624151 - Session: 2dd0b564-9d3c-47ed-aba5-0b86ff5302e5/192.168.0.254:25142
+A new session connected!
+2018-09-07 15:27:30,013 [17] INFO  TcpServer-33624151 - Session: 74eb66fa-1d1e-477d-ad3a-06eeac80364e/192.168.0.254:25133
+A new session connected!
+2018-09-07 15:27:30,013 [16] INFO  TcpServer-33624151 - Session: ba354307-2b07-4003-a741-bd31e38beca1/192.168.0.254:25134
+A new session connected!
+2018-09-07 15:27:30,340 [13] INFO  TcpServer-33624151 - Session: cfc6f92b-2bb8-41f4-b4d0-2627fe5b61c6/192.168.0.254:25127
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,342 [15] INFO  TcpServer-33624151 - Session: d7771ea1-1ced-487c-892a-6aedbb68d606/192.168.0.254:25130
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,342 [15] INFO  TcpServer-33624151 - Session: d3f9f811-dd87-43ef-9504-1447c0340846/192.168.0.254:25123
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,342 [15] INFO  TcpServer-33624151 - Session: 3b44f41b-ee45-4c40-992c-63a709238456/192.168.0.254:25125
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,342 [15] INFO  TcpServer-33624151 - Session: c9d8214a-d117-40ac-902a-5f77b7d28c41/192.168.0.254:25124
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,342 [15] INFO  TcpServer-33624151 - Session: d21af039-5018-441b-9445-1085929b6fc9/192.168.0.254:25131
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,342 [15] INFO  TcpServer-33624151 - Session: 0c2e548c-69dc-4bd1-902b-233dbb8552d4/192.168.0.254:25132
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,343 [15] INFO  TcpServer-33624151 - Session: 878e915f-4094-4530-9301-c6742f4d4b9a/192.168.0.254:25138
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,343 [15] INFO  TcpServer-33624151 - Session: 67de178e-796b-4c60-81b7-24aaac97891d/192.168.0.254:25129
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,351 [9] INFO  TcpServer-33624151 - Session: 6042828d-a1e2-4717-9e0d-34fa10254616/192.168.0.254:25128
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,354 [15] INFO  TcpServer-33624151 - Session: a889a16f-7216-4b76-96b2-77341913c2ea/192.168.0.254:25137
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,355 [15] INFO  TcpServer-33624151 - Session: dade4082-9fda-4a5b-afbd-7d6920617061/192.168.0.254:25140
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,355 [15] INFO  TcpServer-33624151 - Session: 4e1c8b69-cac8-4b0e-8a5c-40d0adacb6aa/192.168.0.254:25141
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,355 [15] INFO  TcpServer-33624151 - Session: 2dd0b564-9d3c-47ed-aba5-0b86ff5302e5/192.168.0.254:25142
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,355 [15] INFO  TcpServer-33624151 - Session: ba354307-2b07-4003-a741-bd31e38beca1/192.168.0.254:25134
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,355 [15] INFO  TcpServer-33624151 - Session: 74eb66fa-1d1e-477d-ad3a-06eeac80364e/192.168.0.254:25133
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,355 [15] INFO  TcpServer-33624151 - Session: d1028d43-fe45-4be1-a413-b05147a4423d/192.168.0.254:25139
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,359 [9] INFO  TcpServer-33624151 - Session: 6a249a21-4e9c-43da-95ea-7d16773a6874/192.168.0.254:25136
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,369 [6] INFO  TcpServer-33624151 - Session: e1c79d89-55c2-4ef8-965c-9ad4dab7f435/192.168.0.254:25126
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,370 [10] INFO  TcpServer-33624151 - Session: d55b3309-900e-4d5e-bd6d-7c5247a51298/192.168.0.254:25122
+This session was closed for ProtocolError!
+2018-09-07 15:27:30,371 [6] INFO  TcpServer-33624151 - Session: 2082661c-4832-40f9-9425-862818f74e0b/192.168.0.254:25135
+This session was closed for ProtocolError!
+2018-09-07 15:29:52,012 [8] INFO  TcpServer-33624151 - Session: 07337940-0e2f-4762-af2f-ab7a53911176/192.168.0.254:25163
+A new session connected!
+2018-09-07 15:29:52,013 [8] INFO  TcpServer-33624151 - Session: 7ecf45ae-ef2b-4ff6-95e9-7f0eebadd14c/192.168.0.254:25164
+A new session connected!
+2018-09-07 15:29:52,013 [8] INFO  TcpServer-33624151 - Session: 4112ac87-bb66-40ad-97a7-10b0bc78c3b7/192.168.0.254:25165
+A new session connected!
+2018-09-07 15:29:52,013 [8] INFO  TcpServer-33624151 - Session: 7ad7b921-b69b-47a3-96b1-ab02d4580a4d/192.168.0.254:25166
+A new session connected!
+2018-09-07 15:29:52,013 [8] INFO  TcpServer-33624151 - Session: ea960b7a-0e29-4db4-b9d2-e2f0741e6fdf/192.168.0.254:25167
+A new session connected!
+2018-09-07 15:29:52,013 [8] INFO  TcpServer-33624151 - Session: e0fbb04b-4b01-4063-82e6-abbb45cba5c1/192.168.0.254:25168
+A new session connected!
+2018-09-07 15:29:52,013 [8] INFO  TcpServer-33624151 - Session: 21c1e764-9732-4290-bda0-4021e5e950af/192.168.0.254:25169
+A new session connected!
+2018-09-07 15:29:52,013 [8] INFO  TcpServer-33624151 - Session: 6e627ccc-b215-4027-9237-462d3c93bf15/192.168.0.254:25170
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: d66e48d0-80ba-47f9-9018-cbdefd4544b5/192.168.0.254:25171
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: 2d94a29d-477e-4c64-95dd-a65dfa96bcd7/192.168.0.254:25172
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: 2212888b-b9be-402f-9b09-c27c89d40881/192.168.0.254:25173
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: 1b94b077-ac78-4630-9e31-79fe7ede20ab/192.168.0.254:25174
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: 84c85e3d-802b-47f8-97aa-19e8c8f12037/192.168.0.254:25175
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: df6252de-d9d7-4fa9-889d-abc90b2ade21/192.168.0.254:25176
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: 3bdeb9a3-b589-48f7-b370-39fadf0446f8/192.168.0.254:25177
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: 1a6ddaaf-ddfa-4d34-bb82-b75410e200f5/192.168.0.254:25178
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: f31ca9fb-9838-4c86-bf68-56969503001c/192.168.0.254:25179
+A new session connected!
+2018-09-07 15:29:52,014 [8] INFO  TcpServer-33624151 - Session: 8b7c8377-6ea3-4a65-8e6a-06c20b80cc09/192.168.0.254:25180
+A new session connected!
+2018-09-07 15:29:52,015 [8] INFO  TcpServer-33624151 - Session: 292d850e-24c5-474f-89ff-1bc7a2f21cf9/192.168.0.254:25181
+A new session connected!
+2018-09-07 15:29:52,015 [8] INFO  TcpServer-33624151 - Session: 87a4d470-3e34-4b2d-95bb-0966f4621aff/192.168.0.254:25182
+A new session connected!
+2018-09-07 15:29:52,015 [8] INFO  TcpServer-33624151 - Session: 5afa83e3-1755-4e1f-aff2-d9c5ccc529e5/192.168.0.254:25183
+A new session connected!
+2018-09-07 15:30:33,125 [15] INFO  TcpServer-33624151 - Session: 7ecf45ae-ef2b-4ff6-95e9-7f0eebadd14c/192.168.0.254:25164
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,125 [15] INFO  TcpServer-33624151 - Session: e0fbb04b-4b01-4063-82e6-abbb45cba5c1/192.168.0.254:25168
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,125 [15] INFO  TcpServer-33624151 - Session: ea960b7a-0e29-4db4-b9d2-e2f0741e6fdf/192.168.0.254:25167
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,125 [15] INFO  TcpServer-33624151 - Session: 2212888b-b9be-402f-9b09-c27c89d40881/192.168.0.254:25173
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [15] INFO  TcpServer-33624151 - Session: d66e48d0-80ba-47f9-9018-cbdefd4544b5/192.168.0.254:25171
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [15] INFO  TcpServer-33624151 - Session: 07337940-0e2f-4762-af2f-ab7a53911176/192.168.0.254:25163
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [9] INFO  TcpServer-33624151 - Session: 4112ac87-bb66-40ad-97a7-10b0bc78c3b7/192.168.0.254:25165
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [15] INFO  TcpServer-33624151 - Session: 2d94a29d-477e-4c64-95dd-a65dfa96bcd7/192.168.0.254:25172
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [9] INFO  TcpServer-33624151 - Session: 1b94b077-ac78-4630-9e31-79fe7ede20ab/192.168.0.254:25174
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [15] INFO  TcpServer-33624151 - Session: 8b7c8377-6ea3-4a65-8e6a-06c20b80cc09/192.168.0.254:25180
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [9] INFO  TcpServer-33624151 - Session: 1a6ddaaf-ddfa-4d34-bb82-b75410e200f5/192.168.0.254:25178
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [15] INFO  TcpServer-33624151 - Session: df6252de-d9d7-4fa9-889d-abc90b2ade21/192.168.0.254:25176
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [9] INFO  TcpServer-33624151 - Session: 3bdeb9a3-b589-48f7-b370-39fadf0446f8/192.168.0.254:25177
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [15] INFO  TcpServer-33624151 - Session: f31ca9fb-9838-4c86-bf68-56969503001c/192.168.0.254:25179
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [9] INFO  TcpServer-33624151 - Session: 7ad7b921-b69b-47a3-96b1-ab02d4580a4d/192.168.0.254:25166
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,126 [15] INFO  TcpServer-33624151 - Session: 6e627ccc-b215-4027-9237-462d3c93bf15/192.168.0.254:25170
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,131 [9] INFO  TcpServer-33624151 - Session: 5afa83e3-1755-4e1f-aff2-d9c5ccc529e5/192.168.0.254:25183
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,131 [15] INFO  TcpServer-33624151 - Session: 87a4d470-3e34-4b2d-95bb-0966f4621aff/192.168.0.254:25182
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,131 [9] INFO  TcpServer-33624151 - Session: 292d850e-24c5-474f-89ff-1bc7a2f21cf9/192.168.0.254:25181
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,140 [22] INFO  TcpServer-33624151 - Session: 21c1e764-9732-4290-bda0-4021e5e950af/192.168.0.254:25169
+This session was closed for ProtocolError!
+2018-09-07 15:30:33,140 [15] INFO  TcpServer-33624151 - Session: 84c85e3d-802b-47f8-97aa-19e8c8f12037/192.168.0.254:25175
+This session was closed for ProtocolError!
+2018-09-07 15:30:50,167 [1] INFO  TcpServer-33624151 - The server instance TcpServer-33624151 has been stopped!
+2018-09-07 15:33:07,434 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 15:33:14,867 [8] INFO  TcpServer-39201736 - Session: cc9b5b8c-ad73-4c7c-b6ab-e606e5db8061/192.168.0.254:25215
+A new session connected!
+2018-09-07 15:33:14,867 [10] INFO  TcpServer-39201736 - Session: 84597434-b00c-434f-963d-787d4865c864/192.168.0.254:25217
+A new session connected!
+2018-09-07 15:33:14,869 [8] INFO  TcpServer-39201736 - Session: 475187ad-0d06-4ff5-9775-355334ecc85e/192.168.0.254:25218
+A new session connected!
+2018-09-07 15:33:14,869 [8] INFO  TcpServer-39201736 - Session: e9bd2841-390b-4fae-b1c0-c9abf76f73e7/192.168.0.254:25219
+A new session connected!
+2018-09-07 15:33:14,869 [8] INFO  TcpServer-39201736 - Session: ff740bbe-b6ae-4331-a1f9-a94d340ad664/192.168.0.254:25220
+A new session connected!
+2018-09-07 15:33:14,869 [8] INFO  TcpServer-39201736 - Session: 2f81d96f-efce-4a17-900f-2232e0af4ffc/192.168.0.254:25221
+A new session connected!
+2018-09-07 15:33:14,869 [8] INFO  TcpServer-39201736 - Session: 65bd14d2-cfc6-4eef-80bc-0128733a2531/192.168.0.254:25222
+A new session connected!
+2018-09-07 15:33:14,870 [8] INFO  TcpServer-39201736 - Session: 3f2fd570-a2d1-4d59-909e-593dbe3b6e5f/192.168.0.254:25223
+A new session connected!
+2018-09-07 15:33:14,870 [8] INFO  TcpServer-39201736 - Session: 768cd8d3-141a-44e6-9ed4-ebb676b5f644/192.168.0.254:25224
+A new session connected!
+2018-09-07 15:33:14,870 [8] INFO  TcpServer-39201736 - Session: 47734fcc-e527-4c41-bebe-059017ea086e/192.168.0.254:25225
+A new session connected!
+2018-09-07 15:33:14,870 [8] INFO  TcpServer-39201736 - Session: cf59c1bd-c62e-4b89-9b67-bee5fabb90ac/192.168.0.254:25226
+A new session connected!
+2018-09-07 15:33:14,870 [8] INFO  TcpServer-39201736 - Session: 8f7c8222-4b3a-4668-866c-8680e58975b7/192.168.0.254:25227
+A new session connected!
+2018-09-07 15:33:14,870 [8] INFO  TcpServer-39201736 - Session: 7a04360e-cb89-48ae-a11b-f3862c8718a7/192.168.0.254:25228
+A new session connected!
+2018-09-07 15:33:14,871 [8] INFO  TcpServer-39201736 - Session: 1bef318e-8f02-4ad3-8507-b7032fec681a/192.168.0.254:25229
+A new session connected!
+2018-09-07 15:33:14,871 [8] INFO  TcpServer-39201736 - Session: b0c03d6f-38ee-46f2-a6a4-d3cd82abe5c0/192.168.0.254:25230
+A new session connected!
+2018-09-07 15:33:14,874 [8] INFO  TcpServer-39201736 - Session: 78e706ef-4d32-4dc1-935f-97161aef7e73/192.168.0.254:25231
+A new session connected!
+2018-09-07 15:33:14,874 [8] INFO  TcpServer-39201736 - Session: e56ec7b4-b404-455e-8576-542471b1959d/192.168.0.254:25232
+A new session connected!
+2018-09-07 15:33:14,874 [8] INFO  TcpServer-39201736 - Session: 043ea8e9-61e4-4b42-92be-0af0ace8d48e/192.168.0.254:25233
+A new session connected!
+2018-09-07 15:33:14,874 [8] INFO  TcpServer-39201736 - Session: cba18475-093b-4a25-a92c-8a1883ee706b/192.168.0.254:25234
+A new session connected!
+2018-09-07 15:33:14,876 [9] INFO  TcpServer-39201736 - Session: 7e7daf30-aea9-4428-93fb-7f616babd4f8/192.168.0.254:25216
+A new session connected!
+2018-09-07 15:33:14,878 [4] INFO  TcpServer-39201736 - Session: 9ec9efdb-1dfc-464d-ba19-643f24c483e4/192.168.0.254:25214
+A new session connected!
+2018-09-07 15:33:15,105 [5] INFO  TcpServer-39201736 - Session: cc9b5b8c-ad73-4c7c-b6ab-e606e5db8061/192.168.0.254:25215
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,105 [12] INFO  TcpServer-39201736 - Session: 2f81d96f-efce-4a17-900f-2232e0af4ffc/192.168.0.254:25221
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [11] INFO  TcpServer-39201736 - Session: ff740bbe-b6ae-4331-a1f9-a94d340ad664/192.168.0.254:25220
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [7] INFO  TcpServer-39201736 - Session: 475187ad-0d06-4ff5-9775-355334ecc85e/192.168.0.254:25218
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [11] INFO  TcpServer-39201736 - Session: 65bd14d2-cfc6-4eef-80bc-0128733a2531/192.168.0.254:25222
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [5] INFO  TcpServer-39201736 - Session: 3f2fd570-a2d1-4d59-909e-593dbe3b6e5f/192.168.0.254:25223
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [11] INFO  TcpServer-39201736 - Session: 768cd8d3-141a-44e6-9ed4-ebb676b5f644/192.168.0.254:25224
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [12] INFO  TcpServer-39201736 - Session: 47734fcc-e527-4c41-bebe-059017ea086e/192.168.0.254:25225
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [5] INFO  TcpServer-39201736 - Session: cf59c1bd-c62e-4b89-9b67-bee5fabb90ac/192.168.0.254:25226
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [11] INFO  TcpServer-39201736 - Session: 8f7c8222-4b3a-4668-866c-8680e58975b7/192.168.0.254:25227
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [12] INFO  TcpServer-39201736 - Session: 7a04360e-cb89-48ae-a11b-f3862c8718a7/192.168.0.254:25228
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [5] INFO  TcpServer-39201736 - Session: 1bef318e-8f02-4ad3-8507-b7032fec681a/192.168.0.254:25229
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,106 [11] INFO  TcpServer-39201736 - Session: b0c03d6f-38ee-46f2-a6a4-d3cd82abe5c0/192.168.0.254:25230
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,107 [12] INFO  TcpServer-39201736 - Session: 78e706ef-4d32-4dc1-935f-97161aef7e73/192.168.0.254:25231
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,107 [6] INFO  TcpServer-39201736 - Session: e9bd2841-390b-4fae-b1c0-c9abf76f73e7/192.168.0.254:25219
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,667 [12] INFO  TcpServer-39201736 - Session: 9ec9efdb-1dfc-464d-ba19-643f24c483e4/192.168.0.254:25214
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,667 [12] INFO  TcpServer-39201736 - Session: 7e7daf30-aea9-4428-93fb-7f616babd4f8/192.168.0.254:25216
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,667 [12] INFO  TcpServer-39201736 - Session: 84597434-b00c-434f-963d-787d4865c864/192.168.0.254:25217
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,667 [12] INFO  TcpServer-39201736 - Session: 043ea8e9-61e4-4b42-92be-0af0ace8d48e/192.168.0.254:25233
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,667 [12] INFO  TcpServer-39201736 - Session: e56ec7b4-b404-455e-8576-542471b1959d/192.168.0.254:25232
+This session was closed for ProtocolError!
+2018-09-07 15:33:15,668 [12] INFO  TcpServer-39201736 - Session: cba18475-093b-4a25-a92c-8a1883ee706b/192.168.0.254:25234
+This session was closed for ProtocolError!
+2018-09-07 15:36:00,423 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been stopped!
+2018-09-07 15:38:57,533 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 15:39:08,915 [6] INFO  TcpServer-39201736 - Session: 5ce680a3-c412-454d-9537-7d54a173a217/192.168.0.254:25335
+A new session connected!
+2018-09-07 15:39:08,915 [9] INFO  TcpServer-39201736 - Session: 61ef1f66-09ec-4f5c-b695-98dfab8086f6/192.168.0.254:25336
+A new session connected!
+2018-09-07 15:39:08,917 [6] INFO  TcpServer-39201736 - Session: ee41b4b9-1740-410c-ac35-28ea4f4c8a8d/192.168.0.254:25339
+A new session connected!
+2018-09-07 15:39:08,917 [9] INFO  TcpServer-39201736 - Session: 2fcfd83f-32fd-4a0d-8109-09fe3eb75d4e/192.168.0.254:25340
+A new session connected!
+2018-09-07 15:39:08,917 [6] INFO  TcpServer-39201736 - Session: 8619b653-6a5c-40f7-a5bb-16c6d79b9b09/192.168.0.254:25341
+A new session connected!
+2018-09-07 15:39:08,917 [9] INFO  TcpServer-39201736 - Session: a66a211c-08c7-4f3a-819d-4ad172a5f9c4/192.168.0.254:25342
+A new session connected!
+2018-09-07 15:39:08,917 [6] INFO  TcpServer-39201736 - Session: 82cecfc4-99d9-4f15-996a-f20d7a7945a7/192.168.0.254:25343
+A new session connected!
+2018-09-07 15:39:08,917 [9] INFO  TcpServer-39201736 - Session: c23a6c5e-394a-4521-bcf1-921eb44c0575/192.168.0.254:25344
+A new session connected!
+2018-09-07 15:39:08,917 [6] INFO  TcpServer-39201736 - Session: 447056fa-f59e-4e9d-bcc5-31fa21a7de76/192.168.0.254:25345
+A new session connected!
+2018-09-07 15:39:08,917 [9] INFO  TcpServer-39201736 - Session: 520922db-c789-48db-bc74-668c5c556ebc/192.168.0.254:25346
+A new session connected!
+2018-09-07 15:39:08,917 [6] INFO  TcpServer-39201736 - Session: 94654e2e-7fbf-47b7-93f4-38aca7824ebe/192.168.0.254:25347
+A new session connected!
+2018-09-07 15:39:08,917 [9] INFO  TcpServer-39201736 - Session: c81397e6-a1cf-4eb5-ac60-d821f7eb2780/192.168.0.254:25348
+A new session connected!
+2018-09-07 15:39:08,917 [6] INFO  TcpServer-39201736 - Session: 4d1093ad-5488-4518-b689-dcfea153da69/192.168.0.254:25349
+A new session connected!
+2018-09-07 15:39:08,917 [9] INFO  TcpServer-39201736 - Session: a58c1b47-ac3f-4e7b-909e-488b8ac42f73/192.168.0.254:25350
+A new session connected!
+2018-09-07 15:39:08,917 [6] INFO  TcpServer-39201736 - Session: 83bcafec-23f9-4170-9ee1-eb09ac6faf2f/192.168.0.254:25351
+A new session connected!
+2018-09-07 15:39:08,917 [9] INFO  TcpServer-39201736 - Session: 1ccafa21-c8f6-480d-b4ec-0c4a9ab52bac/192.168.0.254:25352
+A new session connected!
+2018-09-07 15:39:08,917 [6] INFO  TcpServer-39201736 - Session: efb19419-d13b-4af9-9270-35677c724752/192.168.0.254:25353
+A new session connected!
+2018-09-07 15:39:08,918 [9] INFO  TcpServer-39201736 - Session: 888b93c4-0a93-49af-af69-3597d4774a3e/192.168.0.254:25354
+A new session connected!
+2018-09-07 15:39:08,918 [6] INFO  TcpServer-39201736 - Session: 92232a04-0503-4ad2-979e-5543188f16ce/192.168.0.254:25355
+A new session connected!
+2018-09-07 15:39:08,921 [10] INFO  TcpServer-39201736 - Session: b948d214-96ef-4b36-be8b-9ec490558d51/192.168.0.254:25337
+A new session connected!
+2018-09-07 15:39:08,921 [11] INFO  TcpServer-39201736 - Session: cb0f2a07-4475-4021-9f18-625037867630/192.168.0.254:25338
+A new session connected!
+2018-09-07 15:40:34,527 [12] INFO  TcpServer-39201736 - Session: 61ef1f66-09ec-4f5c-b695-98dfab8086f6/192.168.0.254:25336
+This session was closed for SocketError!
+2018-09-07 15:40:34,527 [16] INFO  TcpServer-39201736 - Session: 2fcfd83f-32fd-4a0d-8109-09fe3eb75d4e/192.168.0.254:25340
+This session was closed for SocketError!
+2018-09-07 15:40:34,527 [7] INFO  TcpServer-39201736 - Session: ee41b4b9-1740-410c-ac35-28ea4f4c8a8d/192.168.0.254:25339
+This session was closed for SocketError!
+2018-09-07 15:40:34,528 [17] INFO  TcpServer-39201736 - Session: a66a211c-08c7-4f3a-819d-4ad172a5f9c4/192.168.0.254:25342
+This session was closed for SocketError!
+2018-09-07 15:40:34,528 [16] INFO  TcpServer-39201736 - Session: 82cecfc4-99d9-4f15-996a-f20d7a7945a7/192.168.0.254:25343
+This session was closed for SocketError!
+2018-09-07 15:40:34,528 [7] INFO  TcpServer-39201736 - Session: c23a6c5e-394a-4521-bcf1-921eb44c0575/192.168.0.254:25344
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [7] INFO  TcpServer-39201736 - Session: 520922db-c789-48db-bc74-668c5c556ebc/192.168.0.254:25346
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [7] INFO  TcpServer-39201736 - Session: 94654e2e-7fbf-47b7-93f4-38aca7824ebe/192.168.0.254:25347
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [7] INFO  TcpServer-39201736 - Session: c81397e6-a1cf-4eb5-ac60-d821f7eb2780/192.168.0.254:25348
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [7] INFO  TcpServer-39201736 - Session: 4d1093ad-5488-4518-b689-dcfea153da69/192.168.0.254:25349
+This session was closed for SocketError!
+2018-09-07 15:40:34,528 [16] INFO  TcpServer-39201736 - Session: 447056fa-f59e-4e9d-bcc5-31fa21a7de76/192.168.0.254:25345
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [7] INFO  TcpServer-39201736 - Session: a58c1b47-ac3f-4e7b-909e-488b8ac42f73/192.168.0.254:25350
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [16] INFO  TcpServer-39201736 - Session: 83bcafec-23f9-4170-9ee1-eb09ac6faf2f/192.168.0.254:25351
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [7] INFO  TcpServer-39201736 - Session: 1ccafa21-c8f6-480d-b4ec-0c4a9ab52bac/192.168.0.254:25352
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [16] INFO  TcpServer-39201736 - Session: efb19419-d13b-4af9-9270-35677c724752/192.168.0.254:25353
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [7] INFO  TcpServer-39201736 - Session: 888b93c4-0a93-49af-af69-3597d4774a3e/192.168.0.254:25354
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [16] INFO  TcpServer-39201736 - Session: 92232a04-0503-4ad2-979e-5543188f16ce/192.168.0.254:25355
+This session was closed for SocketError!
+2018-09-07 15:40:34,529 [7] INFO  TcpServer-39201736 - Session: b948d214-96ef-4b36-be8b-9ec490558d51/192.168.0.254:25337
+This session was closed for SocketError!
+2018-09-07 15:40:34,530 [20] INFO  TcpServer-39201736 - Session: 8619b653-6a5c-40f7-a5bb-16c6d79b9b09/192.168.0.254:25341
+This session was closed for SocketError!
+2018-09-07 15:40:34,544 [8] INFO  TcpServer-39201736 - Session: cb0f2a07-4475-4021-9f18-625037867630/192.168.0.254:25338
+This session was closed for SocketError!
+2018-09-07 15:40:34,554 [5] INFO  TcpServer-39201736 - Session: 5ce680a3-c412-454d-9537-7d54a173a217/192.168.0.254:25335
+This session was closed for SocketError!
+2018-09-07 15:41:22,514 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been stopped!
+2018-09-07 15:43:58,296 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 15:44:04,646 [9] INFO  TcpServer-39201736 - Session: 1515f227-224b-4c19-b028-a4ccbd560dfd/192.168.0.254:25437
+A new session connected!
+2018-09-07 15:44:04,646 [6] INFO  TcpServer-39201736 - Session: 8ffb89f4-aca2-42d9-9f76-864012e9b06f/192.168.0.254:25436
+A new session connected!
+2018-09-07 15:51:53,575 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 15:52:27,577 [4] INFO  TcpServer-39201736 - Session: 80aa3d87-3e9b-4e49-a8ca-c731d3963419/192.168.0.254:25537
+A new session connected!
+2018-09-07 15:52:27,585 [6] INFO  TcpServer-39201736 - Session: 520ddf87-64c1-45cb-adf5-31bfc8362a45/192.168.0.254:25536
+A new session connected!
+2018-09-07 16:02:19,866 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 16:02:27,061 [9] INFO  TcpServer-39201736 - Session: 1504fecc-600a-46eb-a4f8-12598b794bcb/192.168.0.254:25615
+A new session connected!
+2018-09-07 16:02:27,061 [6] INFO  TcpServer-39201736 - Session: 394fcf79-3b4f-47ff-8aef-03794d4dba83/192.168.0.254:25614
+A new session connected!
+2018-09-07 16:08:36,989 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 16:08:43,289 [9] INFO  TcpServer-39201736 - Session: 6f55aa45-3603-425c-84e7-6543d34abd13/192.168.0.254:25678
+A new session connected!
+2018-09-07 16:08:43,289 [6] INFO  TcpServer-39201736 - Session: e6f3d6d2-63c0-4199-9b41-a2a5607a79fe/192.168.0.254:25677
+A new session connected!
+2018-09-07 16:11:31,405 [11] INFO  TcpServer-39201736 - Session: 6f55aa45-3603-425c-84e7-6543d34abd13/192.168.0.254:25678
+This session was closed for SocketError!
+2018-09-07 16:11:31,405 [5] INFO  TcpServer-39201736 - Session: e6f3d6d2-63c0-4199-9b41-a2a5607a79fe/192.168.0.254:25677
+This session was closed for SocketError!
+2018-09-07 16:11:54,381 [12] INFO  TcpServer-39201736 - Session: 50f66f38-e34f-4706-bf06-e5f2d2d3ffec/192.168.0.254:25702
+A new session connected!
+2018-09-07 16:11:54,381 [12] INFO  TcpServer-39201736 - Session: 1b58ef79-00f7-4154-b719-d906912c35fa/192.168.0.254:25703
+A new session connected!
+2018-09-07 16:27:44,633 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 16:28:01,065 [6] INFO  TcpServer-39201736 - Session: 09e127fd-2d06-4175-af4e-95a1cca87d07/192.168.0.254:26330
+A new session connected!
+2018-09-07 16:28:01,066 [9] INFO  TcpServer-39201736 - Session: 55ab54c4-339c-4f88-ba2e-d9bbad2bd777/192.168.0.254:26331
+A new session connected!
+2018-09-07 16:31:14,296 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been stopped!
+2018-09-07 16:31:14,307 [12] INFO  TcpServer-39201736 - Session: 55ab54c4-339c-4f88-ba2e-d9bbad2bd777/192.168.0.254:26331
+This session was closed for ServerShutdown!
+2018-09-07 16:31:14,307 [13] INFO  TcpServer-39201736 - Session: 09e127fd-2d06-4175-af4e-95a1cca87d07/192.168.0.254:26330
+This session was closed for ServerShutdown!
+2018-09-07 16:37:25,609 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 16:37:31,121 [6] INFO  TcpServer-39201736 - Session: 84dac5a9-6fb6-444f-b85f-24ecbdaa5835/192.168.0.254:26404
+A new session connected!
+2018-09-07 16:37:31,121 [9] INFO  TcpServer-39201736 - Session: b9c5889f-0784-43fb-ac24-9acc26d6b82c/192.168.0.254:26405
+A new session connected!
+2018-09-07 16:39:25,050 [5] INFO  TcpServer-39201736 - Session: 84dac5a9-6fb6-444f-b85f-24ecbdaa5835/192.168.0.254:26404
+This session was closed for SocketError!
+2018-09-07 16:39:25,050 [11] INFO  TcpServer-39201736 - Session: b9c5889f-0784-43fb-ac24-9acc26d6b82c/192.168.0.254:26405
+This session was closed for SocketError!
+2018-09-07 16:39:40,596 [13] INFO  TcpServer-39201736 - Session: b8f8e74e-ff12-48c5-a442-43a9cbe5f2d1/192.168.0.254:26431
+A new session connected!
+2018-09-07 16:39:40,621 [14] INFO  TcpServer-39201736 - Session: b487f7f7-0a51-4391-bdaf-4c1977721192/192.168.0.254:26432
+A new session connected!
+2018-09-07 16:56:51,767 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 16:56:58,240 [9] INFO  TcpServer-39201736 - Session: d992e017-5879-4765-abac-37c88b8b7ed4/192.168.0.254:26611
+A new session connected!
+2018-09-07 16:56:58,242 [6] INFO  TcpServer-39201736 - Session: 547f3131-70fb-41df-81d5-fa4717a86b2c/192.168.0.254:26610
+A new session connected!
+2018-09-07 16:59:42,714 [11] INFO  TcpServer-39201736 - Session: 547f3131-70fb-41df-81d5-fa4717a86b2c/192.168.0.254:26610
+This session was closed for SocketError!
+2018-09-07 16:59:42,714 [7] INFO  TcpServer-39201736 - Session: d992e017-5879-4765-abac-37c88b8b7ed4/192.168.0.254:26611
+This session was closed for SocketError!
+2018-09-07 17:00:04,346 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been stopped!
+2018-09-07 17:04:47,221 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 17:04:52,535 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been stopped!
+2018-09-07 17:07:42,474 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 17:07:47,896 [6] INFO  TcpServer-39201736 - Session: ca09464d-e93b-490b-9868-b7479fa61c02/192.168.0.254:26996
+A new session connected!
+2018-09-07 17:07:47,896 [9] INFO  TcpServer-39201736 - Session: 970f4746-8641-45dc-aaf0-8298a68e8c34/192.168.0.254:26997
+A new session connected!
+2018-09-07 17:08:09,521 [11] INFO  TcpServer-39201736 - Session: ca09464d-e93b-490b-9868-b7479fa61c02/192.168.0.254:26996
+This session was closed for SocketError!
+2018-09-07 17:08:09,521 [5] INFO  TcpServer-39201736 - Session: 970f4746-8641-45dc-aaf0-8298a68e8c34/192.168.0.254:26997
+This session was closed for SocketError!
+2018-09-07 17:09:44,684 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-07 17:09:49,628 [6] INFO  TcpServer-39201736 - Session: 7217fc2c-db9e-4a99-b650-6ca09d34f2da/192.168.0.254:27023
+A new session connected!
+2018-09-07 17:09:49,628 [9] INFO  TcpServer-39201736 - Session: 003a66e5-c079-4cab-90d9-1a285ddc3daa/192.168.0.254:27024
+A new session connected!
+2018-09-07 17:17:46,363 [7] INFO  TcpServer-39201736 - Session: 7217fc2c-db9e-4a99-b650-6ca09d34f2da/192.168.0.254:27023
+This session was closed for SocketError!
+2018-09-07 17:17:46,363 [14] INFO  TcpServer-39201736 - Session: 003a66e5-c079-4cab-90d9-1a285ddc3daa/192.168.0.254:27024
+This session was closed for SocketError!
+2018-09-07 17:18:32,726 [9] INFO  TcpServer-39201736 - Session: 7ca75354-3ba1-4a1f-8656-9186ca693e79/192.168.0.254:27131
+A new session connected!
+2018-09-07 17:18:32,726 [9] INFO  TcpServer-39201736 - Session: dc54fab6-9d8e-4f0e-b457-b4705d55d8d4/192.168.0.254:27132
+A new session connected!
+2018-09-07 17:21:13,475 [17] INFO  TcpServer-39201736 - Session: 7ca75354-3ba1-4a1f-8656-9186ca693e79/192.168.0.254:27131
+This session was closed for SocketError!
+2018-09-07 17:21:13,476 [17] INFO  TcpServer-39201736 - Session: dc54fab6-9d8e-4f0e-b457-b4705d55d8d4/192.168.0.254:27132
+This session was closed for SocketError!
+2018-09-07 17:21:20,126 [21] INFO  TcpServer-39201736 - Session: a2e8f4b7-3fe7-4783-b4a6-9fd427cc2d6e/192.168.0.254:27163
+A new session connected!
+2018-09-07 17:21:20,126 [18] INFO  TcpServer-39201736 - Session: 1bf75d90-58b1-4c54-9304-c41f929af44e/192.168.0.254:27164
+A new session connected!
+2018-09-07 17:21:55,664 [22] INFO  TcpServer-39201736 - Session: a2e8f4b7-3fe7-4783-b4a6-9fd427cc2d6e/192.168.0.254:27163
+This session was closed for SocketError!
+2018-09-07 17:21:55,664 [16] INFO  TcpServer-39201736 - Session: 1bf75d90-58b1-4c54-9304-c41f929af44e/192.168.0.254:27164
+This session was closed for SocketError!
+2018-09-07 17:21:57,092 [24] INFO  TcpServer-39201736 - Session: 1ea96e8d-22a8-4389-a724-64e38f928175/192.168.0.254:27172
+A new session connected!
+2018-09-07 17:21:57,127 [23] INFO  TcpServer-39201736 - Session: 767c6d92-5d11-4dab-947c-8527be20b38c/192.168.0.254:27173
+A new session connected!
+2018-09-07 17:23:15,811 [15] INFO  TcpServer-39201736 - Session: 767c6d92-5d11-4dab-947c-8527be20b38c/192.168.0.254:27173
+This session was closed for SocketError!
+2018-09-07 17:23:15,811 [19] INFO  TcpServer-39201736 - Session: 1ea96e8d-22a8-4389-a724-64e38f928175/192.168.0.254:27172
+This session was closed for SocketError!
+2018-09-07 17:23:21,984 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been stopped!

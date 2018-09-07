@@ -1,0 +1,10 @@
+﻿2018-09-06 17:17:15,485 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-06 17:18:07,621 [4] INFO  TcpServer-39201736 - Session: 36ea42f5-6fb7-4ba5-969c-2379b9ecd009/192.168.0.254:11121
+A new session connected!
+2018-09-06 17:23:07,521 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-06 17:23:59,201 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-06 17:24:07,322 [4] INFO  TcpServer-39201736 - Session: 1207feda-77ac-4fd3-b9e6-ece5045e5871/192.168.0.254:11181
+A new session connected!
+2018-09-06 20:31:34,047 [1] INFO  TcpServer-39201736 - The server instance TcpServer-39201736 has been started!
+2018-09-06 20:42:17,000 [4] INFO  TcpServer-39201736 - Session: ad192f58-6550-4ec1-b8e7-e4b823558271/192.168.0.254:14493
+A new session connected!

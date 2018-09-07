@@ -1,0 +1,2 @@
+﻿2018-08-23 09:00:53,430 [1] DEBUG TestServer-46104728 - The command TestCommand(SupperSocketTest.Custom.TestCommand, SupperSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-08-23 09:00:53,461 [1] DEBUG TestServer-46104728 - Listener (192.168.0.254:11111) was started
