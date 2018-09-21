@@ -97,19 +97,19 @@ namespace SocketServ_SuperSocket
             logTimer.Start();
             btn_log.Enabled = true;
 
-            packetTimer = new System.Timers.Timer();//SOCKET原始数据包处理计时器
-            packetTimer.Elapsed += (sender, elapsedEvent) =>
-            {
-                PacketObj obj = null;
-                bool result = packetQueue.TryDequeue(out obj);
-                if (result)
-                {
-                    string outError = string.Empty;
-                    //packetAnalyze.SeparatorAnalyze(obj.SocketObj, obj.Packet, obj.SocketObj.PartList, packet_sep, out outError);//找到完整数据包,通过事件触发,再查找余下包
-                }
-                packetTimer.Enabled = true;
-            };
-            packetTimer.Enabled = true;
+            //packetTimer = new System.Timers.Timer();//SOCKET原始数据包处理计时器
+            //packetTimer.Elapsed += (sender, elapsedEvent) =>
+            //{
+            //    PacketObj obj = null;
+            //    bool result = packetQueue.TryDequeue(out obj);
+            //    if (result)
+            //    {
+            //        string outError = string.Empty;
+            //        //packetAnalyze.SeparatorAnalyze(obj.SocketObj, obj.Packet, obj.SocketObj.PartList, packet_sep, out outError);//找到完整数据包,通过事件触发,再查找余下包
+            //    }
+            //    packetTimer.Enabled = true;
+            //};
+            //packetTimer.Enabled = true;
 
         }
 
