@@ -220,7 +220,7 @@ namespace SocketServ_SuperSocket
                 }
             }
             SetDataSource();
-            DoLog(value.ToString(), true);
+            //DoLog(value.ToString(), true);
         }
 
         /// <summary>
@@ -263,7 +263,11 @@ namespace SocketServ_SuperSocket
         private void AnalyzePacket(string fullPacket,TcpSession session)
         {
             SocketMessage messObj = null;
-            messObj = JsonConvert.DeserializeObject<SocketMessage>(fullPacket);
+            try
+            {
+                messObj = JsonConvert.DeserializeObject<SocketMessage>(fullPacket);
+            }catch(Exception e) { DoLog(e.Message + "->" + fullPacket, true); }
+            
             AnalyzeMessage(fullPacket, messObj, session);
         }
         /// <summary>
